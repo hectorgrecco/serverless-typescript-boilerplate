@@ -1,0 +1,19 @@
+{
+  "name": "serverless-typescript-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hectorgrecco/serverless-typescript-boilerplate.git",
+  "author": "Hector Grecco <hectorgreccodev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "debug": "^4.3.3",
+    "knex": "^0.95.15",
+    "pg": "^8.7.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.89",
+    "@types/node": "^17.0.8"
+  }
+}
